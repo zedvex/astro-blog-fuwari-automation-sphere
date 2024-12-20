@@ -2,7 +2,7 @@
 title: Decoding YouTube Automation
 published: 2024-04-01
 description: " A quick guide to building a profitable, audience-driven channel without being on-camera."
-image: "./cover.jpeg"
+image: "./post-1-cover.png"
 tags: ["YouTube", "Blogging", "Automation"]
 category: Guides
 draft: false
